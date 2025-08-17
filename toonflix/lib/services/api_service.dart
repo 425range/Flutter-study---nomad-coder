@@ -1,6 +1,4 @@
 import 'dart:convert';
-import 'dart:math';
-
 import 'package:http/http.dart' as http;
 import 'package:toonflix/models/webtoon.dart';
 import 'package:toonflix/models/webtoon_detail_model.dart';
